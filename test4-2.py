@@ -1,2 +1,5 @@
 import numpy as np
-print(np.zeros(2))
+a=int(input())
+print(np.zeros(
+    a
+))
